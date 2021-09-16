@@ -1,6 +1,5 @@
 # Title
-
-Simple (or clever and funny?) description
+This a simple chat bot.
 
 ## Table of Contents
 
